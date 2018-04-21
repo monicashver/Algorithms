@@ -1,0 +1,22 @@
+dir1
+ dir111
+ monica
+  yes.jpeg
+  lo.png
+  this_is_a_dir
+   test.txt
+   more_dirs
+    more_test_files.jpeg
+  more_test.txt
+   another_dir_deeper
+    another_another_another_dir
+    this_is_another_picture_file_ok.png
+ this_folder_name_is_Actually_longer_testing_more_cases
+  this_folder_name_is_Actually_longer_testing_more_cases_longer_longer
+  phone_call_and_no_one_answred.jpeg
+ more_short_files
+ more
+ more2
+  file.jpeg
+  file2.gif
+  filefilefile.png
